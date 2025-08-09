@@ -1,0 +1,19 @@
+# Core machine learning and deep learning libraries
+tensorflow>=2.10.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Data download and extraction
+kaggle>=1.5.12
+
+# Jupyter notebook environment (optional for production)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+zipfile36>=0.1.3
