@@ -218,8 +218,5 @@ This project is open-source and available under the MIT License.
 
 ---
 
-**Author**: [Your Name]  
-**Contact**: [Your Email]  
-**Date**: [Current Date]
 
 *This project serves as a comprehensive example of sentiment analysis using LSTM neural networks and demonstrates practical implementation of deep learning for natural language processing tasks.*
